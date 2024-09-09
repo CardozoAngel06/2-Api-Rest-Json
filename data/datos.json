@@ -1,0 +1,19 @@
+{
+    "Productos": [
+        {
+            "id": 1,
+            "nombre": "Regla",
+            "precio": 100
+        },
+        {
+            "id": 2,
+            "nombre": "Lapiz",
+            "precio": 180
+        },
+        {
+            "id": 3,
+            "nombre": "Cuaderno",
+            "precio": 650
+        }
+    ]
+}
